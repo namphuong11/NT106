@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|c:\\drive\\code\\n2\\lt mang\\lab6-final\\lab06\\savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:savehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab06.csproj|solutionrelative:indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saveHistory.cs",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\saveHistory.cs",
+              "RelativeDocumentMoniker": "saveHistory.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\saveHistory.cs",
+              "RelativeToolTip": "saveHistory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:11:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "saveHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\saveHistory.cs",
+              "RelativeDocumentMoniker": "saveHistory.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab06\\saveHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab06\\saveHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:01:51.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "indexForm.cs [Design]",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\indexForm.cs",
+              "RelativeDocumentMoniker": "indexForm.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab06\\indexForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab06\\indexForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:57:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab06\\mainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab06\\mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:33:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "indexForm.cs",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\indexForm.cs",
+              "RelativeDocumentMoniker": "indexForm.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\indexForm.cs",
+              "RelativeToolTip": "indexForm.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAIwDABAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:16:37.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "C:\\Drive\\code\\N2\\LT Mang\\Lab6-Final\\Lab06\\mainForm.cs",
+              "RelativeToolTip": "mainForm.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAAAwD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:35:39.396Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+>>> 4:23:11 SA - hhh connected to Server... <<<
+
+>>> hhh đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 5 round
+>>> Round 1: Đoán một số trong khoảng [38, 47].
+hhh đoán sai! (41). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 40.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [31, 74].
+hhh đoán sai! (47). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 33.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [3, 22].
+Không ai có đáp án chính xác
+Đáp án là: 13.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [0, 1].
+hhh đoán sai! (1). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+hhh là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 0.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [43, 45].
+hhh đoán sai! (44). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 5
+hhh là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 45.
+------------------------------
+Điểm cao nhất là: 16
+  + hhh
+Điểm của bạn: 16
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

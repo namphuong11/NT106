@@ -1,0 +1,154 @@
+>>> 12:23:30 PM - 2 connected to Server... <<<
+
+>>> 1 đã sẵn sàng!
+>>> 2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 5 round
+>>> Round 1: Đoán một số trong khoảng [9, 29].
+1 đoán sai! (22). -1 điểm
+2 đoán sai! (17). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 1
+1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 18.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [37, 40].
+Đã tìm thấy người chơi chiến thắng tại round 2
+2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 39.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [36, 53].
+1 đoán sai! (53). -1 điểm
+2 đoán sai! (49). -1 điểm
+1 đoán sai! (37). -1 điểm
+2 đoán sai! (50). -1 điểm
+2 đoán sai! (42). -1 điểm
+1 đoán sai! (44). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 52.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [49, 88].
+1 đoán sai! (68). -1 điểm
+2 đoán sai! (58). -1 điểm
+1 đoán sai! (54). -1 điểm
+2 đoán sai! (63). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 77.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [12, 30].
+2 đoán sai! (14). -1 điểm
+1 đoán sai! (26). -1 điểm
+1 đoán sai! (20). -1 điểm
+2 đoán sai! (28). -1 điểm
+1 đoán sai! (22). -1 điểm
+2 đoán sai! (26). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 21.
+------------------------------
+Điểm cao nhất là: 1
+ + 1
+ + 2
+Điểm của bạn: 1
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 12:35:46 PM - 2 connected to Server... <<<
+
+>>> 1 đã sẵn sàng!
+>>> 2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [40, 85].
+1 đoán sai! (51). -1 điểm
+2 đoán sai! (81). -1 điểm
+1 đoán sai! (84). -1 điểm
+2 đoán sai! (76). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 77.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [28, 75].
+2 đoán sai! (68). -1 điểm
+1 đoán sai! (45). -1 điểm
+1 đoán sai! (52). -1 điểm
+2 đoán sai! (73). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [0, 6].
+1 đoán sai! (1). -1 điểm
+2 đoán sai! (6). -1 điểm
+1 đoán sai! (5). -1 điểm
+2 đoán sai! (5). -1 điểm
+1 đoán sai! (3). -1 điểm
+2 đoán sai! (2). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 4.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [18, 22].
+1 đoán sai! (19). -1 điểm
+2 đoán sai! (18). -1 điểm
+2 đoán sai! (19). -1 điểm
+1 đoán sai! (20). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 21.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [30, 50].
+1 đoán sai! (41). -1 điểm
+2 đoán sai! (45). -1 điểm
+2 đoán sai! (30). -1 điểm
+1 đoán sai! (43). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 5
+1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 32.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [38, 67].
+1 đoán sai! (41). -1 điểm
+2 đoán sai! (58). -1 điểm
+1 đoán sai! (65). -1 điểm
+2 đoán sai! (66). -1 điểm
+1 đoán sai! (55). -1 điểm
+2 đoán sai! (56). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [1, 33].
+1 đoán sai! (15). -1 điểm
+2 đoán sai! (27). -1 điểm
+2 đoán sai! (7). -1 điểm
+1 đoán sai! (7). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 18.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [47, 75].
+2 đoán sai! (58). -1 điểm
+1 đoán sai! (68). -1 điểm
+2 đoán sai! (60). -1 điểm
+1 đoán sai! (54). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 55.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [23, 48].
+1 đoán sai! (37). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 9
+2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 38.
+------------------------------
+Điểm cao nhất là: -8
+Điểm của bạn: -8
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> 1 đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+

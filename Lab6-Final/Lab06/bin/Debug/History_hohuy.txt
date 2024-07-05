@@ -1,0 +1,54 @@
+>>> 12:03:53 PM - hohuy connected to Server... <<<
+
+>>> hohuy đã sẵn sàng!
+>>> huuphuc đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 7 round
+>>> Round 1: Đoán một số trong khoảng [26, 33].
+Không ai có đáp án chính xác
+Đáp án là: 30.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [48, 79].
+Không ai có đáp án chính xác
+Đáp án là: 73.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [4, 18].
+Không ai có đáp án chính xác
+Đáp án là: 18.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [12, 21].
+Không ai có đáp án chính xác
+Đáp án là: 15.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [35, 39].
+Đã tìm thấy người chơi chiến thắng tại round 5
+hohuy là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 37.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [15, 33].
+hohuy đoán sai! (33). -1 điểm
+huuphuc đoán sai! (31). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 29.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [17, 19].
+hohuy đoán sai! (18). -1 điểm
+huuphuc đoán sai! (18). -1 điểm
+huuphuc đoán sai! (19). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 7
+hohuy là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 17.
+------------------------------
+Điểm cao nhất là: 18
+  + hohuy
+Điểm của bạn: 18
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

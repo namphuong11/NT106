@@ -1,0 +1,6 @@
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.Client.resources
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.Server.resources
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Drive\code\N2\LT Mang\TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache

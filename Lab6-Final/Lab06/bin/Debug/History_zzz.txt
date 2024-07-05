@@ -1,0 +1,29 @@
+>>> 12:09:27 PM - zzz connected to Server... <<<
+
+>>> zzz đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [6, 31].
+Không ai có đáp án chính xác
+Đáp án là: 25.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [35, 55].
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [47, 73].
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+Điểm cao nhất là: 0
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

@@ -1,0 +1,24 @@
+C:\Users\huy\Downloads\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\huy\Downloads\Lab06\bin\Debug\Lab06.exe
+C:\Users\huy\Downloads\Lab06\bin\Debug\Lab06.pdb
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.saveHistory.resources
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.indexForm.resources
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.mainForm.resources
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.exe
+C:\Users\huy\Downloads\Lab06\obj\Debug\Lab06.pdb
+C:\Drive\code\N2\LT Mang\Lab06\bin\Debug\Lab06.exe.config
+C:\Drive\code\N2\LT Mang\Lab06\bin\Debug\Lab06.exe
+C:\Drive\code\N2\LT Mang\Lab06\bin\Debug\Lab06.pdb
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.saveHistory.resources
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.indexForm.resources
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.mainForm.resources
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.exe
+C:\Drive\code\N2\LT Mang\Lab06\obj\Debug\Lab06.pdb

@@ -1,0 +1,76 @@
+>>> 4:34:25 SA - huh connected to Server... <<<
+
+>>> huh đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 4 round
+>>> Round 1: Đoán một số trong khoảng [40, 68].
+Không ai có đáp án chính xác
+Đáp án là: 55.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [18, 47].
+Không ai có đáp án chính xác
+Đáp án là: 23.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [40, 41].
+Không ai có đáp án chính xác
+Đáp án là: 40.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [47, 76].
+Không ai có đáp án chính xác
+Đáp án là: 61.
+------------------------------
+Điểm cao nhất là: 0
+  + huh
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> huh đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [35, 70].
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [46, 86].
+Không ai có đáp án chính xác
+Đáp án là: 46.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [39, 48].
+Không ai có đáp án chính xác
+Đáp án là: 40.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [33, 76].
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [22, 35].
+Không ai có đáp án chính xác
+Đáp án là: 25.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [46, 57].
+Không ai có đáp án chính xác
+Đáp án là: 46.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [28, 42].
+Không ai có đáp án chính xác
+Đáp án là: 41.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [5, 25].
+Không ai có đáp án chính xác
+Đáp án là: 19.
+------------------------------
+Điểm cao nhất là: 0
+  + huh
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

@@ -1,0 +1,34 @@
+>>> 4:18:40 SA - jjnl connected to Server... <<<
+
+>>> jjnl đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 4 round
+>>> Round 1: Đoán một số trong khoảng [29, 43].
+Không ai có đáp án chính xác
+Đáp án là: 31.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [16, 51].
+Không ai có đáp án chính xác
+Đáp án là: 45.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [13, 35].
+Không ai có đáp án chính xác
+Đáp án là: 17.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [21, 30].
+Không ai có đáp án chính xác
+Đáp án là: 25.
+------------------------------
+Điểm cao nhất là: 0
+  + jjnl
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

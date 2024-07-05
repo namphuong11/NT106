@@ -1,0 +1,234 @@
+>>> 12:30:25 PM - z connected to Server... <<<
+
+>>> c vừa vào phòng chơi
+>>> z đã sẵn sàng!
+>>> c đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [31, 56].
+z đoán sai! (33). -1 điểm
+c đoán sai! (37). -1 điểm
+z đoán sai! (40). -1 điểm
+c đoán sai! (32). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 53.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [32, 75].
+z đoán sai! (38). -1 điểm
+c đoán sai! (50). -1 điểm
+c đoán sai! (52). -1 điểm
+z đoán sai! (41). -1 điểm
+c đoán sai! (45). -1 điểm
+z đoán sai! (44). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 40.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [30, 43].
+c đoán sai! (42). -1 điểm
+z đoán sai! (34). -1 điểm
+c đoán sai! (36). -1 điểm
+z đoán sai! (35). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 43.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [0, 2].
+z đoán sai! (0). -1 điểm
+c đoán sai! (2). -1 điểm
+c đoán sai! (0). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+z là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 1.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [41, 77].
+z đoán sai! (76). -1 điểm
+c đoán sai! (74). -1 điểm
+z đoán sai! (68). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 5
+c là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 60.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [34, 46].
+Đã tìm thấy người chơi chiến thắng tại round 6
+z là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 38.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [22, 50].
+z đoán sai! (35). -1 điểm
+c đoán sai! (39). -1 điểm
+c đoán sai! (30). -1 điểm
+z đoán sai! (34). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 36.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [29, 38].
+z đoán sai! (34). -1 điểm
+c đoán sai! (30). -1 điểm
+z đoán sai! (37). -1 điểm
+c đoán sai! (34). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [9, 49].
+z đoán sai! (17). -1 điểm
+c đoán sai! (44). -1 điểm
+c đoán sai! (18). -1 điểm
+z đoán sai! (9). -1 điểm
+z đoán sai! (18). -1 điểm
+c đoán sai! (22). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 33.
+------------------------------
+Điểm cao nhất là: 3
+ + z
+Điểm của bạn: 3
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 12:33:15 PM - z connected to Server... <<<
+
+>>> c vừa vào phòng chơi
+>>> c đã sẵn sàng!
+>>> z đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [32, 33].
+Đã tìm thấy người chơi chiến thắng tại round 1
+z là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 33.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [21, 64].
+z đoán sai! (27). -1 điểm
+c đoán sai! (62). -1 điểm
+c đoán sai! (60). -1 điểm
+z đoán sai! (58). -1 điểm
+z đoán sai! (23). -1 điểm
+c đoán sai! (31). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [29, 44].
+c đoán sai! (36). -1 điểm
+z đoán sai! (44). -1 điểm
+c đoán sai! (38). -1 điểm
+z đoán sai! (43). -1 điểm
+z đoán sai! (37). -1 điểm
+c đoán sai! (40). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 30.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [43, 51].
+c đoán sai! (47). -1 điểm
+z đoán sai! (48). -1 điểm
+c đoán sai! (51). -1 điểm
+z đoán sai! (50). -1 điểm
+c đoán sai! (45). -1 điểm
+z đoán sai! (46). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 49.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [28, 50].
+c đoán sai! (47). -1 điểm
+z đoán sai! (36). -1 điểm
+c đoán sai! (50). -1 điểm
+z đoán sai! (39). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [21, 55].
+c đoán sai! (45). -1 điểm
+z đoán sai! (34). -1 điểm
+z đoán sai! (32). -1 điểm
+c đoán sai! (47). -1 điểm
+z đoán sai! (41). -1 điểm
+c đoán sai! (22). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 48.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [10, 31].
+c đoán sai! (28). -1 điểm
+z đoán sai! (10). -1 điểm
+c đoán sai! (16). -1 điểm
+z đoán sai! (31). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 27.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [2, 45].
+c đoán sai! (4). -1 điểm
+z đoán sai! (39). -1 điểm
+c đoán sai! (44). -1 điểm
+z đoán sai! (16). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+Điểm cao nhất là: -8
+ z
+Điểm của bạn: -8
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+>>> c đã thoát khỏi game
+
+>>> Connection closed <<<
+
+
+
+
+>>> 12:38:07 PM - z connected to Server... <<<
+
+>>> c vừa vào phòng chơi
+>>> c đã sẵn sàng!
+>>> z đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 4 round
+>>> Round 1: Đoán một số trong khoảng [23, 34].
+Đã tìm thấy người chơi chiến thắng tại round 1
+c là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 27.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [37, 64].
+c đoán sai! (38). -1 điểm
+z đoán sai! (43). -1 điểm
+c đoán sai! (63). -1 điểm
+z đoán sai! (58). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 53.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [28, 71].
+c đoán sai! (69). -1 điểm
+z đoán sai! (57). -1 điểm
+c đoán sai! (33). -1 điểm
+z đoán sai! (58). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [15, 51].
+c đoán sai! (17). -1 điểm
+z đoán sai! (24). -1 điểm
+c đoán sai! (25). -1 điểm
+z đoán sai! (44). -1 điểm
+z đoán sai! (49). -1 điểm
+c đoán sai! (31). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 36.
+------------------------------
+Điểm cao nhất là: 3
+Người chơi chiến thắng là: c
+Điểm của bạn: -7
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

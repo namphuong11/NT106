@@ -1,0 +1,81 @@
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.exe
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.deps.json
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.runtimeconfig.json
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\FireSharp.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.AssemblyReference.cache
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formLogin.resources
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formMainApp.resources
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formRegistration.resources
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.GenerateResource.cache
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfoInputs.cache
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfo.cs
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.CoreCompileInputs.cache
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase.7B9EC670.Up2Date
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\refint\Firebase_Project.dll
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.genruntimeconfig.cache
+C:\Users\Thien\Downloads\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\ref\Firebase_Project.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.exe
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.deps.json
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.runtimeconfig.json
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\FireSharp.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.AssemblyReference.cache
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formLogin.resources
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formMainApp.resources
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formRegistration.resources
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.GenerateResource.cache
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfoInputs.cache
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfo.cs
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.CoreCompileInputs.cache
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase.7B9EC670.Up2Date
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\refint\Firebase_Project.dll
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.genruntimeconfig.cache
+C:\Hoc_Ky_2\LTMCB\Webservices_Firebase\Firebase_Project\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\ref\Firebase_Project.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.exe
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.deps.json
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.runtimeconfig.json
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\FireSharp.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.AssemblyReference.cache
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formLogin.resources
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formMainApp.resources
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.formRegistration.resources
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.GenerateResource.cache
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfoInputs.cache
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.AssemblyInfo.cs
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.csproj.CoreCompileInputs.cache
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase.7B9EC670.Up2Date
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\refint\Firebase_Project.dll
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.pdb
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\Firebase_Project.genruntimeconfig.cache
+C:\Drive\code\N2\LT Mang\TEST\Firebase_Project (2)\Firebase_Project\Firebase_Project\obj\Debug\net8.0-windows\ref\Firebase_Project.dll
